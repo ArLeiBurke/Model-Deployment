@@ -1,0 +1,81 @@
+﻿  InstanceSegment.cpp
+C:\Users\Administrator\source\repos\ArLeiBurke\ArLeiBurke.Infer\InstanceSegment.cpp(51,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Administrator\source\repos\ArLeiBurke\ArLeiBurke.Infer\InstanceSegment.cpp(52,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Administrator\source\repos\ArLeiBurke\ArLeiBurke.Infer\InstanceSegment.cpp(66,10): warning C4244: 'initializing': conversion from '_Ty' to 'int', possible loss of data
+C:\Users\Administrator\source\repos\ArLeiBurke\ArLeiBurke.Infer\InstanceSegment.cpp(66,10): warning C4244:         with
+C:\Users\Administrator\source\repos\ArLeiBurke\ArLeiBurke.Infer\InstanceSegment.cpp(66,10): warning C4244:         [
+C:\Users\Administrator\source\repos\ArLeiBurke\ArLeiBurke.Infer\InstanceSegment.cpp(66,10): warning C4244:             _Ty=int64_t
+C:\Users\Administrator\source\repos\ArLeiBurke\ArLeiBurke.Infer\InstanceSegment.cpp(66,10): warning C4244:         ]
+C:\Users\Administrator\source\repos\ArLeiBurke\ArLeiBurke.Infer\InstanceSegment.cpp(67,29): warning C4244: '=': conversion from '_Ty' to 'int', possible loss of data
+C:\Users\Administrator\source\repos\ArLeiBurke\ArLeiBurke.Infer\InstanceSegment.cpp(67,29): warning C4244:         with
+C:\Users\Administrator\source\repos\ArLeiBurke\ArLeiBurke.Infer\InstanceSegment.cpp(67,29): warning C4244:         [
+C:\Users\Administrator\source\repos\ArLeiBurke\ArLeiBurke.Infer\InstanceSegment.cpp(67,29): warning C4244:             _Ty=int64_t
+C:\Users\Administrator\source\repos\ArLeiBurke\ArLeiBurke.Infer\InstanceSegment.cpp(67,29): warning C4244:         ]
+C:\Users\Administrator\source\repos\ArLeiBurke\ArLeiBurke.Infer\InstanceSegment.cpp(68,29): warning C4244: '=': conversion from '_Ty' to 'int', possible loss of data
+C:\Users\Administrator\source\repos\ArLeiBurke\ArLeiBurke.Infer\InstanceSegment.cpp(68,29): warning C4244:         with
+C:\Users\Administrator\source\repos\ArLeiBurke\ArLeiBurke.Infer\InstanceSegment.cpp(68,29): warning C4244:         [
+C:\Users\Administrator\source\repos\ArLeiBurke\ArLeiBurke.Infer\InstanceSegment.cpp(68,29): warning C4244:             _Ty=int64_t
+C:\Users\Administrator\source\repos\ArLeiBurke\ArLeiBurke.Infer\InstanceSegment.cpp(68,29): warning C4244:         ]
+C:\Users\Administrator\source\repos\ArLeiBurke\ArLeiBurke.Infer\InstanceSegment.cpp(77,10): warning C4244: 'initializing': conversion from '_Ty' to 'int', possible loss of data
+C:\Users\Administrator\source\repos\ArLeiBurke\ArLeiBurke.Infer\InstanceSegment.cpp(77,10): warning C4244:         with
+C:\Users\Administrator\source\repos\ArLeiBurke\ArLeiBurke.Infer\InstanceSegment.cpp(77,10): warning C4244:         [
+C:\Users\Administrator\source\repos\ArLeiBurke\ArLeiBurke.Infer\InstanceSegment.cpp(77,10): warning C4244:             _Ty=int64_t
+C:\Users\Administrator\source\repos\ArLeiBurke\ArLeiBurke.Infer\InstanceSegment.cpp(77,10): warning C4244:         ]
+C:\Users\Administrator\source\repos\ArLeiBurke\ArLeiBurke.Infer\InstanceSegment.cpp(78,16): warning C4244: 'initializing': conversion from '_Ty' to 'int', possible loss of data
+C:\Users\Administrator\source\repos\ArLeiBurke\ArLeiBurke.Infer\InstanceSegment.cpp(78,16): warning C4244:         with
+C:\Users\Administrator\source\repos\ArLeiBurke\ArLeiBurke.Infer\InstanceSegment.cpp(78,16): warning C4244:         [
+C:\Users\Administrator\source\repos\ArLeiBurke\ArLeiBurke.Infer\InstanceSegment.cpp(78,16): warning C4244:             _Ty=int64_t
+C:\Users\Administrator\source\repos\ArLeiBurke\ArLeiBurke.Infer\InstanceSegment.cpp(78,16): warning C4244:         ]
+C:\Users\Administrator\source\repos\ArLeiBurke\ArLeiBurke.Infer\InstanceSegment.cpp(79,16): warning C4244: 'initializing': conversion from '_Ty' to 'int', possible loss of data
+C:\Users\Administrator\source\repos\ArLeiBurke\ArLeiBurke.Infer\InstanceSegment.cpp(79,16): warning C4244:         with
+C:\Users\Administrator\source\repos\ArLeiBurke\ArLeiBurke.Infer\InstanceSegment.cpp(79,16): warning C4244:         [
+C:\Users\Administrator\source\repos\ArLeiBurke\ArLeiBurke.Infer\InstanceSegment.cpp(79,16): warning C4244:             _Ty=int64_t
+C:\Users\Administrator\source\repos\ArLeiBurke\ArLeiBurke.Infer\InstanceSegment.cpp(79,16): warning C4244:         ]
+C:\Users\Administrator\source\repos\ArLeiBurke\ArLeiBurke.Infer\InstanceSegment.cpp(110,13): warning C4244: 'initializing': conversion from '_Ty' to 'int', possible loss of data
+C:\Users\Administrator\source\repos\ArLeiBurke\ArLeiBurke.Infer\InstanceSegment.cpp(110,13): warning C4244:         with
+C:\Users\Administrator\source\repos\ArLeiBurke\ArLeiBurke.Infer\InstanceSegment.cpp(110,13): warning C4244:         [
+C:\Users\Administrator\source\repos\ArLeiBurke\ArLeiBurke.Infer\InstanceSegment.cpp(110,13): warning C4244:             _Ty=int64_t
+C:\Users\Administrator\source\repos\ArLeiBurke\ArLeiBurke.Infer\InstanceSegment.cpp(110,13): warning C4244:         ]
+C:\Users\Administrator\source\repos\ArLeiBurke\ArLeiBurke.Infer\InstanceSegment.cpp(111,12): warning C4244: 'initializing': conversion from '_Ty' to 'int', possible loss of data
+C:\Users\Administrator\source\repos\ArLeiBurke\ArLeiBurke.Infer\InstanceSegment.cpp(111,12): warning C4244:         with
+C:\Users\Administrator\source\repos\ArLeiBurke\ArLeiBurke.Infer\InstanceSegment.cpp(111,12): warning C4244:         [
+C:\Users\Administrator\source\repos\ArLeiBurke\ArLeiBurke.Infer\InstanceSegment.cpp(111,12): warning C4244:             _Ty=int64_t
+C:\Users\Administrator\source\repos\ArLeiBurke\ArLeiBurke.Infer\InstanceSegment.cpp(111,12): warning C4244:         ]
+C:\Users\Administrator\source\repos\ArLeiBurke\ArLeiBurke.Infer\InstanceSegment.cpp(112,12): warning C4244: 'initializing': conversion from '_Ty' to 'int', possible loss of data
+C:\Users\Administrator\source\repos\ArLeiBurke\ArLeiBurke.Infer\InstanceSegment.cpp(112,12): warning C4244:         with
+C:\Users\Administrator\source\repos\ArLeiBurke\ArLeiBurke.Infer\InstanceSegment.cpp(112,12): warning C4244:         [
+C:\Users\Administrator\source\repos\ArLeiBurke\ArLeiBurke.Infer\InstanceSegment.cpp(112,12): warning C4244:             _Ty=int64_t
+C:\Users\Administrator\source\repos\ArLeiBurke\ArLeiBurke.Infer\InstanceSegment.cpp(112,12): warning C4244:         ]
+  main.cpp
+C:\Users\Administrator\source\repos\ArLeiBurke\ArLeiBurke.Infer\ObjectDetection.h(101,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Administrator\source\repos\ArLeiBurke\ArLeiBurke.Infer\ObjectDetection.h(102,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Administrator\source\repos\ArLeiBurke\ArLeiBurke.Infer\main.cpp(24,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  ObjectDetection.cpp
+C:\Users\Administrator\source\repos\ArLeiBurke\ArLeiBurke.Infer\ObjectDetection.h(101,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Administrator\source\repos\ArLeiBurke\ArLeiBurke.Infer\ObjectDetection.h(102,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Administrator\source\repos\ArLeiBurke\ArLeiBurke.Infer\ObjectDetection.cpp(147,163): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Administrator\source\repos\ArLeiBurke\ArLeiBurke.Infer\ObjectDetection.cpp(165,63): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\Administrator\source\repos\ArLeiBurke\ArLeiBurke.Infer\ObjectDetection.cpp(165,63): warning C4267:         with
+C:\Users\Administrator\source\repos\ArLeiBurke\ArLeiBurke.Infer\ObjectDetection.cpp(165,63): warning C4267:         [
+C:\Users\Administrator\source\repos\ArLeiBurke\ArLeiBurke.Infer\ObjectDetection.cpp(165,63): warning C4267:             _Ty=int
+C:\Users\Administrator\source\repos\ArLeiBurke\ArLeiBurke.Infer\ObjectDetection.cpp(165,63): warning C4267:         ]
+C:\Users\Administrator\source\repos\ArLeiBurke\ArLeiBurke.Infer\ObjectDetection.cpp(230,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Administrator\source\repos\ArLeiBurke\ArLeiBurke.Infer\ObjectDetection.cpp(233,36): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Administrator\source\repos\ArLeiBurke\ArLeiBurke.Infer\ObjectDetection.cpp(262,60): warning C4244: '=': conversion from 'double' to '_Ty', possible loss of data
+C:\Users\Administrator\source\repos\ArLeiBurke\ArLeiBurke.Infer\ObjectDetection.cpp(262,60): warning C4244:         with
+C:\Users\Administrator\source\repos\ArLeiBurke\ArLeiBurke.Infer\ObjectDetection.cpp(262,60): warning C4244:         [
+C:\Users\Administrator\source\repos\ArLeiBurke\ArLeiBurke.Infer\ObjectDetection.cpp(262,60): warning C4244:             _Ty=float
+C:\Users\Administrator\source\repos\ArLeiBurke\ArLeiBurke.Infer\ObjectDetection.cpp(262,60): warning C4244:         ]
+C:\Users\Administrator\source\repos\ArLeiBurke\ArLeiBurke.Infer\ObjectDetection.cpp(289,60): warning C4244: '=': conversion from 'double' to '_Ty', possible loss of data
+C:\Users\Administrator\source\repos\ArLeiBurke\ArLeiBurke.Infer\ObjectDetection.cpp(289,60): warning C4244:         with
+C:\Users\Administrator\source\repos\ArLeiBurke\ArLeiBurke.Infer\ObjectDetection.cpp(289,60): warning C4244:         [
+C:\Users\Administrator\source\repos\ArLeiBurke\ArLeiBurke.Infer\ObjectDetection.cpp(289,60): warning C4244:             _Ty=float
+C:\Users\Administrator\source\repos\ArLeiBurke\ArLeiBurke.Infer\ObjectDetection.cpp(289,60): warning C4244:         ]
+C:\Users\Administrator\source\repos\ArLeiBurke\ArLeiBurke.Infer\ObjectDetection.cpp(421,68): warning C4244: '=': conversion from 'double' to '_Ty', possible loss of data
+C:\Users\Administrator\source\repos\ArLeiBurke\ArLeiBurke.Infer\ObjectDetection.cpp(421,68): warning C4244:         with
+C:\Users\Administrator\source\repos\ArLeiBurke\ArLeiBurke.Infer\ObjectDetection.cpp(421,68): warning C4244:         [
+C:\Users\Administrator\source\repos\ArLeiBurke\ArLeiBurke.Infer\ObjectDetection.cpp(421,68): warning C4244:             _Ty=float
+C:\Users\Administrator\source\repos\ArLeiBurke\ArLeiBurke.Infer\ObjectDetection.cpp(421,68): warning C4244:         ]
+C:\Users\Administrator\source\repos\ArLeiBurke\ArLeiBurke.Infer\ObjectDetection.cpp(519,151): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  ArLeiBurke.Infer.vcxproj -> C:\Users\Administrator\source\repos\ArLeiBurke\x64\Debug\ArLeiBurke.Infer.exe
